@@ -1,0 +1,9 @@
+/core-cljs/target
+/demo-dep/target
+/core-cljs/.repl/
+/demo-dep/.repl/
+*.jar
+*.class
+.lein-deps-sum
+.lein-failures
+.lein-plugins
